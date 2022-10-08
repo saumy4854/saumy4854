@@ -34,6 +34,9 @@
 
 -☄️ Astronomy always curiates me ! 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saumy4854&show_icons=true&locale=en" alt="saumy4854" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=saumy4854&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="saumy4854&#39;s Stats"></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saumy4854&" alt="saumy4854" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=saumy4854&theme=vue-dark&hide_border=false" alt="saumy4854&#39;s Streak"></p>
+  
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumy4854&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="saumy4854&#39;s Top Languages"></p>
+  
