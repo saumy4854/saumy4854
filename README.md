@@ -10,7 +10,7 @@
 
 - 🎓 Currently pursuing Electrical & Computer Engineering from Amrita Vishwa Vidyapeetham
 
-- 📫 How to reach me **saumy4854@gmail.com**
+- 📫 How to reach me : **saumy4854@gmail.com**
 
 - ⚡ Fun fact about me : **I’m a gym member. I try to go four times a week, but I’ve missed the last twelve hundred times**
 
