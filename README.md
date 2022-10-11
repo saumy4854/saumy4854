@@ -34,9 +34,14 @@
 
 -☄️ Astronomy always curiates me ! 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=saumy4854&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="saumy4854&#39;s Stats"></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=saumy4854&theme=vue-dark&hide_border=false" alt="saumy4854&#39;s Streak"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=saumy4854&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" alt=""><br/>
   
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumy4854&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="saumy4854&#39;s Top Languages"></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saumy4854&amp;theme=tokyonight&amp;hide_border=false" alt=""><br/>
   
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumy4854&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt=""></p>
+  
+<h3 id="-random-dev-quote">✍️ Random Dev Quote</h3>
+<p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt=""></p>
+<h3 id="-random-dev-meme">😂 Random Dev Meme</h3>
+<p><img src="https://random-memer.herokuapp.com/" width="512px"/></p>
+<hr>
