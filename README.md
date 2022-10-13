@@ -8,7 +8,7 @@
 
 - 💻 A curious & optimistic person seeking guidance to achieve the highest !
 
-- 🎓 Currently pursuing Electrical & Computer Engineering from Amrita Vishwa Vidyapeetham
+- 🎓 Currently pursuing Computer Engineering from Amrita Vishwa Vidyapeetham
 
 - 📫 How to reach me : **saumy4854@gmail.com**
 
