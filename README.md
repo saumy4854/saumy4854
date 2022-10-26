@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saumy</h1>
-<h2 align ="center"> <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="150"</h2>  
+<h2 align ="center"> <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="175"</h2>  
 <h3 align="center">A curious programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumy4854&label=Profile%20views&color=0e75b6&style=flat" alt="saumy4854" /> </p>
